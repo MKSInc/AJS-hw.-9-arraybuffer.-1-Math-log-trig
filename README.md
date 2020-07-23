@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6oim7s2r6fbei50j?svg=true)](https://ci.appveyor.com/project/MKSInc/ajs-hw-9-arraybuffer-1-math-log-trig)
+
 # Домашнее задание к лекции «`ArrayBuffer`»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
